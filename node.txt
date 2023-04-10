@@ -1,0 +1,5 @@
+Các chức năng đã làm được
+1: Thêm sửa xóa sản phẩm , danh mục
+2: Đăng kí, Đăng nhập, Đăng xuất 
+3: CheckPermission nếu không phai là admin thì không được quyền
+thêm sửa xóa sản phâm và danh mục
