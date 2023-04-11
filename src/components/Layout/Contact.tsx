@@ -8,7 +8,7 @@ const Contact = (props: Props) => {
       <section
         id="contact"
         className="paralax-mf footer-paralax bg-image sect-mt4 route"
-        style={{ backgroundImage: "url(src/assets/img/overlay-bg.jpg)" }}
+        style={{ backgroundImage: "url(src/assets/img/icon.jpg)" }}
       >
         <div className="overlay-mf"></div>
         <div className="container">
@@ -116,21 +116,21 @@ const Contact = (props: Props) => {
                           </li>
                           <li>
                             <span className="bi bi-envelope"></span>{" "}
-                            Havu6544@gmail.com
+                            manhld21082003@gmail.com
                           </li>
                         </ul>
                       </div>
                       <div className="socials">
                         <ul>
                           <li>
-                            <a href="https://www.facebook.com/vubrishen/">
+                            <a href="#">
                               <span className="ico-circle">
                                 <i className="bi bi-facebook"></i>
                               </span>
                             </a>
                           </li>
                           <li>
-                            <a href="https://www.instagram.com/huyvu9927/">
+                            <a href="#">
                               <span className="ico-circle">
                                 <i className="bi bi-instagram"></i>
                               </span>
